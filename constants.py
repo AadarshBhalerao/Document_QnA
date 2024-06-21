@@ -15,7 +15,7 @@ LLM_FALCON_SMALL = "tiiuae/falcon-7b-instruct"
 
 
 # OpenAI
-OPENAI_API_KEY = "9b124a3f47194f3eab84ba9d3945d34e"
+OPENAI_API_KEY = None
 
 CHUNK_SIZE = 5000
 CHUNK_OVERLAP = 500
